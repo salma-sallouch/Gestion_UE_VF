@@ -22,7 +22,6 @@ Projet universitaire permettant de gérer les **Unités d’Enseignement (UE)** 
 - 🗑 Supprimer un module
 
 ## 🚀 Lancer le projet
-
 1. Lancer **Tomcat**
 2. Ouvrir le navigateur
 3. Accéder à :
